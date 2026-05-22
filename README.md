@@ -16,9 +16,9 @@
 
 ## 📸 Screenshots
 
-| Home (Sleep) | Alarm Settings | Analytics |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400.png?text=Sleep+Screen) | ![Alarm](https://via.placeholder.com/200x400.png?text=Alarm+Screen) | ![Diary](https://via.placeholder.com/200x400.png?text=Diary+Screen) |
+| Home (Sleep) | Alarm Settings | Analytics | Music |
+| :---: | :---: | :---: | :---: |
+| ![Home](screenshots/home.png) | ![Alarm](screenshots/alarm.png) | ![Diary](screenshots/diary.png) | ![Music](screenshots/music.png) |
 
 ## 🛠️ Tech Stack
 
