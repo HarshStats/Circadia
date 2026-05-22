@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Circadia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/brand_dark_blue</item>
+        <item name="colorPrimary">@color/neon_blue</item>
+        <item name="colorSecondary">@color/neon_purple</item>
+        <item name="android:windowBackground">@color/brand_dark_blue</item>
+    </style>
+
+    <style name="Theme.Circadia" parent="Base.Theme.Circadia" />
+</resources>

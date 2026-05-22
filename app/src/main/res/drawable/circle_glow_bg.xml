@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Inner Circle -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/glass_white" />
+            <stroke android:width="2dp" android:color="@color/neon_blue" />
+        </shape>
+    </item>
+</layer-list>

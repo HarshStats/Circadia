@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_sleep"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Sleep" />
+    <item
+        android:id="@+id/nav_alarm"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:title="Alarm" />
+    <item
+        android:id="@+id/nav_diary"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Diary" />
+    <item
+        android:id="@+id/nav_music"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="Music" />
+</menu>
